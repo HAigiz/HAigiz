@@ -8,8 +8,7 @@
 
 - 👋 Hi, I'm @HAigiz
 - 👀 I'm interested in website building and server administration
-- 🌱 I am currently learning Python
-- 💞️ I want to cooperate in T-Bank
+- 🌱 I am currently learning Golang
 - 📫 How to contact me khafizov.aygiz.i@bk.ru
 - 😄 pronouns: helicopter
 - ⚡ Interesting fact: I like apples
