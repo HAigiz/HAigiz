@@ -1,8 +1,6 @@
 На данный момент занимаюсь планирование pet-проекта, в котором затрону такие технологии, как:
 -  Kubernetes
 -  Ansible
--  Jira и Confluence
--  Openstack
 -  Grafana и Prometheus
 -  ELK
 
